@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ESP -- HWK_4_Bank_Ver_2</string>
+    <string name="author">Creado de Gran Papi Chulo</string>
+    <string name="balance">Balance</string>
+    <string name="save">Salvar</string>
+    <string name="creator">Una Creation de Gran Papa Tobyn8r</string>
+    <string name="accouunt_type">Tipo de Cuenta</string>
+    <string name="account_type">Tipo de Cuenta</string>
+    <string name="bal">Saldo de Cuenta</string>
+    <string name="bg">bg</string>
+</resources>

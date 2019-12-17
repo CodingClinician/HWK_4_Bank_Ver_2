@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HWK_4_Bank_Ver_2</string>
+    <string name="author">Created by Christian Lopez</string>
+    <string name="creator">A Big Daddy Toby Creation</string>
+    <string name="accouunt_type">Accouunt Type</string>
+    <string name="balance1">Balance</string>
+    <string name="account_type">Account Type</string>
+    <string name="save">Save</string>
+    <string name="bal">bal</string>
+    <string name="bg">bg</string>
+    <string name="balance" translatable="false">Balance</string>
+</resources>
